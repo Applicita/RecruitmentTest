@@ -1,12 +1,13 @@
-## Intro
+# Technical Test - Software Engineer - ASP.Net MVC
 
-This assignment is a very small task to create a TAX calculator.
+## General Description
+
+Create a simple TAX calculator using ASP.NET MVC
 
 For reference, Gross Amount is calculated as follows:
 
 `[Net Amount] * (1 + ([TaxRate] / 100)`
 
-- This assignment takes an average of about 60 minutes.
 - Use Bootstrap in your views to make it responsive.
 - Use async await as you see fit.
 - We use MSTest and [Moq](http://code.google.com/p/moq) at Applicita, references have been added using [NuGet](http://nuget.codeplex.com/) Packages. Everything is in place for you to just write the code (no "File > New Project" required).
@@ -19,6 +20,7 @@ For reference, Gross Amount is calculated as follows:
 - Your code should trend towards being SOLID.
 - Please [download](https://github.com/Applicita/Test-Software-Engineer-AspNetMVC) the [Recruitment-Test repository](https://github.com/Applicita/Test-Software-Engineer-AspNetMVC), complete the tasks as you see fit.
 - Send us a Dropbox/Skydrive/whatever link to your zipped code to info@applicita.com or attach a zip file directly to the email.
+- Please don't spend too long on this test; 60 minutes at most.
 
 ## Task Stories
 
