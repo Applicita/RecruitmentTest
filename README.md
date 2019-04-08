@@ -2,7 +2,7 @@
 
 ## General Description
 
-Create a simple TAX calculator using ASP.NET MVC
+Create a simple TAX calculator using [ASP.NET MVC](https://dotnet.microsoft.com/apps/aspnet/mvc)
 
 For reference, Gross Amount is calculated as follows:
 
@@ -18,7 +18,7 @@ For reference, Gross Amount is calculated as follows:
 - All stories to be completed with an appropriate level of testing.
 - No actual database implementation is required, feel free to stub it out.
 - Your code should trend towards being SOLID.
-- Please [download](https://github.com/Applicita/Test-Software-Engineer-AspNetMVC) the [code](https://github.com/Applicita/Test-Software-Engineer-AspNetMVC), complete the tasks as you see fit.
+- Please download the [code](https://github.com/Applicita/Test-Software-Engineer-AspNetMVC), complete the tasks as you see fit.
 - Send us a Dropbox/Skydrive/whatever link to your zipped code to info@applicita.com or attach a zip file directly to the email.
 - Please don't spend too long on this test; 120 minutes at most.
 
