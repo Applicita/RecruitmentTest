@@ -22,6 +22,11 @@ For reference, Gross Amount is calculated as follows:
 - Send us a Dropbox/Skydrive/whatever link to your zipped code to info@applicita.com or attach a zip file directly to the email.
 - Please don't spend too long on this test; 120 minutes at most.
 
+## Bonus Points
+
+- Secure the Application
+- Add Telemetry / Logging
+
 ## Task Stories
 
 Please complete each story in order.
