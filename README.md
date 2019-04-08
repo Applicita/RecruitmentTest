@@ -20,7 +20,7 @@ For reference, Gross Amount is calculated as follows:
 - Your code should trend towards being SOLID.
 - Please [download](https://github.com/Applicita/Test-Software-Engineer-AspNetMVC) the [Recruitment-Test repository](https://github.com/Applicita/Test-Software-Engineer-AspNetMVC), complete the tasks as you see fit.
 - Send us a Dropbox/Skydrive/whatever link to your zipped code to info@applicita.com or attach a zip file directly to the email.
-- Please don't spend too long on this test; 60 minutes at most.
+- Please don't spend too long on this test; 120 minutes at most.
 
 ## Task Stories
 
